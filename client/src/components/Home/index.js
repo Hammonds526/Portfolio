@@ -9,7 +9,8 @@ function Home() {
         <div className="row">
           <div className="col">
             <img
-              src="/garthImg.jpg"
+              src="
+              /portfolio/images/garthImg.jpg"
               className="rounded float-left img-fluid  mr-3 shadow-sm"
               alt="Garth Hammonds"
               width="200px"

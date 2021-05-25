@@ -10,7 +10,7 @@ function Resume() {
               <div className="d-inline-block hoverBtn">
                 <a
                   className="font-weight-bold"
-                  href="https://hammonds526.github.io/Portfolio/assets/resume.pdf"
+                  href="https://hammonds526.github.io/Portfolio/images/resume.pdf"
                   download
                 >
                   Download Resume

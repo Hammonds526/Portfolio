@@ -43,7 +43,7 @@ function Portfolio() {
 
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img
-              src="/willItStreamImg.jpg"
+              src="willItStreamImg.jpg"
               className="card-img-top"
               alt="willitstream.com"
             ></img>
@@ -76,7 +76,7 @@ function Portfolio() {
 
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img
-              src="/employeeDirectoryImg.jpg"
+              src="employeeDirectoryImg.jpg"
               className="card-img-top"
               alt="Employee Directory"
             ></img>
@@ -107,7 +107,7 @@ function Portfolio() {
 
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img
-              src="/weatherDashboardImg.jpg"
+              src="weatherDashboardImg.jpg"
               className="card-img-top"
               alt="Weather Dashboard"
             ></img>
