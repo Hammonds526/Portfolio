@@ -11,7 +11,7 @@ function Portfolio() {
       <div className="row">
         <div className="col p-4 d-flex flex-wrap justify-content-around">
           <div className="card mb-4" style={{ width: "23rem" }}>
-            <img src="trackStarImg.jpg" className="card-img-top" alt="trackStarImg2"></img>
+            <img src="https://hammonds526.github.io/Portfolio/images/trackStarImg.jpg" className="card-img-top" alt="trackStarImg2"></img>
             <div className="card-body">
               <h5 className="card-title">
                 Track Star - Auto organize all your online orders!
@@ -43,7 +43,7 @@ function Portfolio() {
 
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img
-              src="willItStreamImg.jpg"
+              src="https://hammonds526.github.io/Portfolio/images/willItStreamImg.jpg"
               className="card-img-top"
               alt="willitstream.com"
             ></img>
@@ -76,7 +76,7 @@ function Portfolio() {
 
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img
-              src="employeeDirectoryImg.jpg"
+              src="https://hammonds526.github.io/Portfolio/images/employeeDirectoryImg.jpg"
               className="card-img-top"
               alt="Employee Directory"
             ></img>
@@ -107,7 +107,7 @@ function Portfolio() {
 
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img
-              src="weatherDashboardImg.jpg"
+              src="https://hammonds526.github.io/Portfolio/images/weatherDashboardImg.jpg"
               className="card-img-top"
               alt="Weather Dashboard"
             ></img>
