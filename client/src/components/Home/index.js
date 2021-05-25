@@ -10,7 +10,7 @@ function Home() {
           <div className="col">
             <img
               src="
-              /portfolio/images/garthImg.jpg"
+              /images/garthImg.jpg"
               className="rounded float-left img-fluid  mr-3 shadow-sm"
               alt="Garth Hammonds"
               width="200px"
