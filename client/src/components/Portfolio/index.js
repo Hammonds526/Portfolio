@@ -10,6 +10,33 @@ function Portfolio() {
       </div>
       <div className="row">
         <div className="col p-4 d-flex flex-wrap justify-content-around">
+        <div className="card mb-4" style={{ width: "23rem" }}>
+            <img
+              src="https://hammonds526.github.io/Portfolio/images/characterTavernHome.JPG"
+              className="card-img-top"
+              alt="Character Tavern"
+            ></img>
+            <div className="card-body">
+              <h5 className="card-title">Character Tavern</h5>
+              <p className="card-text">
+              React application for quick and easy character creation for 5th edition Dungeons & Dragons. Custom pixel art homepage, assets, and local data makes site quick and nostalgic style.
+              </p>
+            </div>
+            <div className="card-body">
+              <a
+                href="https://character-creator-tavern.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="card-link"
+              >
+                Live Site
+              </a>
+              <a
+                href="https://github.com/Hammonds526/CharacterCreator"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="card-link"
+              >
           <div className="card mb-4" style={{ width: "23rem" }}>
             <img src="https://hammonds526.github.io/Portfolio/images/trackStarImg.JPG" className="card-img-top" alt="trackStarImg2"></img>
             <div className="card-body">
@@ -105,33 +132,7 @@ function Portfolio() {
             </div>
           </div>
 
-          <div className="card mb-4" style={{ width: "23rem" }}>
-            <img
-              src="https://hammonds526.github.io/Portfolio/images/weatherDashboardImg.JPG"
-              className="card-img-top"
-              alt="Weather Dashboard"
-            ></img>
-            <div className="card-body">
-              <h5 className="card-title">Weather Dashboard</h5>
-              <p className="card-text">
-                5 day weather forecast...it's pretty much weather.com without the articles.
-              </p>
-            </div>
-            <div className="card-body">
-              <a
-                href="https://hammonds526.github.io/weather-dashboard/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="card-link"
-              >
-                Live Site
-              </a>
-              <a
-                href="https://github.com/Hammonds526/weather-dashboard"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="card-link"
-              >
+          
                 Repo
               </a>
             </div>
