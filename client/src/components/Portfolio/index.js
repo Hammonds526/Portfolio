@@ -10,18 +10,17 @@ function Portfolio() {
       </div>
       <div className="row">
         <div className="col p-4 d-flex flex-wrap justify-content-around">
-        <div className="card mb-4" style={{ width: "23rem" }}>
-            <img
-              src="https://hammonds526.github.io/Portfolio/images/characterTavernHome.JPG"
-              className="card-img-top"
-              alt="Character Tavern"
-            ></img>
+          <div className="card mb-4" style={{ width: "23rem" }}>
+            <img src="https://hammonds526.github.io/Portfolio/images/characterTavernHome.JPG" className="card-img-top" alt="Character Creator"></img>
             <div className="card-body">
-              <h5 className="card-title">Character Tavern</h5>
+              <h5 className="card-title">
+                Character Creator Tavern
+              </h5>
               <p className="card-text">
-              React application for quick and easy character creation for 5th edition Dungeons & Dragons. Custom pixel art homepage, assets, and local data makes site quick and nostalgic style.
+              React application for quick and easy character creator for 5th edition Dungeons & Dragons. Custom pixel art homepage, assets, and local data makes site quick and gives a clean nostalgic style.
               </p>
             </div>
+
             <div className="card-body">
               <a
                 href="https://character-creator-tavern.herokuapp.com/"
@@ -37,8 +36,13 @@ function Portfolio() {
                 rel="noopener noreferrer"
                 className="card-link"
               >
+                Repo
+              </a>
+            </div>
+          </div>
+
           <div className="card mb-4" style={{ width: "23rem" }}>
-            <img src="https://hammonds526.github.io/Portfolio/images/trackStarImg.JPG" className="card-img-top" alt="trackStarImg2"></img>
+          <img src="https://hammonds526.github.io/Portfolio/images/trackStarImg.JPG" className="card-img-top" alt="trackStarImg2"></img>
             <div className="card-body">
               <h5 className="card-title">
                 Track Star - Auto organize all your online orders!
@@ -132,11 +136,6 @@ function Portfolio() {
             </div>
           </div>
 
-          
-                Repo
-              </a>
-            </div>
-          </div>
         </div>
       </div>
     </div>
