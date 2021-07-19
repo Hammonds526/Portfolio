@@ -7,9 +7,9 @@
 
 #### Live Site
 
-[View Now](https://hammonds526.github.io/Portfolio/)
+[View Now](https://hammonds526.github.io/Portfolio/ "https://hammonds526.github.io/Portfolio/")
 
 Screennshots
 
-![Screenshot](client/public/screenshot/images/screenshotHome.jpg "Homepage")
+![Screenshot](client/public/images/screenshotHome.jpg "Homepage")
 <!-- ![Screenshot](/Assets/screenshot2.jpg "Screenshot") -->
