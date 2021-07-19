@@ -2,6 +2,8 @@
 
 ### Portfolio
 
+Website to show off some projects I completed and still in-progress.
+
 - Mobile responsive design
 - Built with JavaScript, HTML, CSS, Bootstrap, React, React Router DOM, Node
 
@@ -9,7 +11,7 @@
 
 [View Now](https://hammonds526.github.io/Portfolio/ "https://hammonds526.github.io/Portfolio/")
 
-Screennshots
+Screennshots:
 
 Homepage/About Me
 ![Screenshot](https://hammonds526.github.io/Portfolio/images/screenshotHome.JPG "Homepage")
