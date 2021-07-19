@@ -16,11 +16,7 @@ function Home() {
               width="200px"
             ></img>
             <p>
-            I’m a hard working individual, experienced in web development, marketing, client services, and project management. I was
-brought up with a strong code of ethics and morals, as well as a thirst for knowledge. In previous
-employment, I have been used by multiple departments due to my quick learning, diligent work
-ethic, and problem solving ability. My work history has allowed me to learn a multitude of skills
-that I consistently use to work effectively whether it be alone, or in team environments.
+            I’m a hard working individual, experienced in web development, marketing, photography, client services, customer service, and project management. I have a passion for knowledge and excel at whatever I set my sights on. In previous employment, I have been consistently used by multiple departments due to my quick learning, diligent work ethic, and problem solving ability. My work history has allowed me to learn a multitude of skills that I use to work effectively whether it be alone, or in a team environment.
 
             </p>
             <p>- Garth Hammonds</p>
