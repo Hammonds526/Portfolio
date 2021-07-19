@@ -7,9 +7,9 @@
 
 #### Live Site
 
-[View Now](https://radiant-savannah-41282.herokuapp.com/)
+[View Now](https://hammonds526.github.io/Portfolio/)
 
-Screennshot
+Screennshots
 
-![Screenshot](/Assets/screenshot.jpg "Screenshot")
-![Screenshot](/Assets/screenshot2.jpg "Screenshot")
+![Screenshot](client/public/screenshot/images/screenshotHome.jpg "Homepage")
+<!-- ![Screenshot](/Assets/screenshot2.jpg "Screenshot") -->
