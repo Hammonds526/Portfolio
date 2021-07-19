@@ -3,7 +3,7 @@
 ### Portfolio
 
 - Mobile responsive design
-- Built with Bootstrap, React, Node
+- Built with JavaScript, HTML, CSS, Bootstrap, React, React Router DOM, Node
 
 #### Live Site
 
