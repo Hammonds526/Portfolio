@@ -11,5 +11,7 @@
 
 Screennshots
 
+Homepage/About Me
 ![Screenshot](https://hammonds526.github.io/Portfolio/images/screenshotHome.JPG "Homepage")
-<!-- ![Screenshot](/Assets/screenshot2.jpg "Screenshot") -->
+Portfolio
+![Screenshot](https://hammonds526.github.io/Portfolio/images/screenshotPortfolio.JPG "Portfolio")
