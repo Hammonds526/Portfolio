@@ -11,5 +11,5 @@
 
 Screennshots
 
-![Screenshot](client/public/images/screenshotHome.jpg "Homepage")
+![Screenshot](client\public\images\screenshotHome.jpg "Homepage")
 <!-- ![Screenshot](/Assets/screenshot2.jpg "Screenshot") -->
