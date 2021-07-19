@@ -56,7 +56,7 @@ function Resume() {
               <li>•.NET Framework</li>
           </ul>
           <ul>
-            <li>TOOLS: GIT, GitHub, Heroku, Photoshop </li>
+            <li>TOOLS:</li>
               <li>•Agile development techniques</li>
               <li>•MVC programming framework</li>
               <li>•GIT</li>
