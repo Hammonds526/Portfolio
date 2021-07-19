@@ -56,7 +56,7 @@ function Home() {
                   ></Github>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/garth-hammonds-286b2a204/"
+                  href="https://www.linkedin.com/in/garth-hammonds/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className=""
